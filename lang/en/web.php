@@ -1,0 +1,37 @@
+<?php
+
+return [
+    'home'=>'Home',
+    'cats'=>'Categories',
+    'contact'=>'Contact Us',
+    'signin'=>'Sign In',
+    'signup'=>'Sign Up',
+    'signout'=>'Sign Out',
+
+    'heroTitle'=>'SkillsHub Free Online Skill Assessment',
+    'heroDesc'=>'Libris vivendo eloquentiam ex ius, nec id splendide abhorreant, eu pro alii error homero.',
+    'popularExameTitle'=>'Popular Exams',
+    'popularExameDesc'=>'Libris vivendo eloquentiam ex ius, nec id splendide abhorreant.',
+    'getStartedBot'=>'Get Started!',
+    'moreExamBot'=>'More Exam',
+    'ContactDesc'=>'Keep in touch with us',
+    'ContactBot'=>'Contact Us Now',
+
+    'next'=>'Next',
+    'back'=>'Back',
+    'Skill'=>'skill',
+    'question'=>'Question',
+    'durations'=>'Durations',
+    'difficulty'=>'Difficulty',
+    'startExamBot'=>'StartExam',
+    'cancelBot'=>'Cancel',
+    'submitBot'=>'Submit',
+    'SendMessage'=>'Send A Message',
+    'ContactInformation'=>'Contact Information',
+    'name'=>'Name',
+    'email'=>'Email',
+    'Subject'=>'Subject',
+    'EnterMessage'=>'Enter A Message',
+    'profile'=>'Profile',
+    'dashboard'=>'Dashboard',
+];

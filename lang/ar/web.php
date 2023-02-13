@@ -1,0 +1,37 @@
+<?php
+
+return [
+    'home'=>'الصفحة الرئيسية',
+    'cats'=>'المصنفات',
+    'contact'=>'تواصل معنا',
+    'signin'=>'تسجيل دخول',
+    'signup'=>'تسجيل حساب',
+    'signout'=>'تسجيل خروج',
+
+    'heroTitle'=>'موقع اختبار المهارات',
+    'heroDesc'=>'سجل معنا واختبر قدراتك الان',
+    'popularExameTitle'=>'الاختبارات الاكثر شيوعا',
+    'popularExameDesc'=>'سجل معنا واختبر قدراتك الان.',
+    'getStartedBot'=>'ابدأ لان',
+    'moreExamBot'=>'المزيد من الاختبارات',
+    'ContactDesc'=>'كن علي تواصل معنا ',
+    'ContactBot'=>'اتصل بنا الان',
+
+    'next'=>'التالي',
+    'back'=>'السابق',
+    'Skill'=>'لمهارة',
+    'questions'=>'الاسئلة',
+    'duration'=>'المدة',
+    'difficulty'=>'المستوي',
+    'startExamBot'=>'ابدأ الامتحان',
+    'cancelBot'=>'الغاء',
+    'submitBot'=>'ارسال الاجابة',
+    'SendMessage'=>'ارسل رسالة',
+    'ContactInformation'=>'معلومات التواصل',
+    'name'=>'الاسم',
+    'email'=>'الاميل',
+    'Subject'=>'الموضوع',
+    'EnterMessage'=>' ادخل رسالة',
+    'profile'=>'الصفحة الشخصية',
+    'dashboard'=>'لوحة التكم',
+];
